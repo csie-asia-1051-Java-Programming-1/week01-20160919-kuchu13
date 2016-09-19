@@ -14,7 +14,6 @@ public class ex01_105021033 {
 		Scanner scn = new Scanner(System.in);
 		System.out.println("請輸入華氏溫度");
 		float a = scn.nextFloat();
-		// scn.close();
 		System.out.println((a - 32) * 5 / 9);
 
 	}
